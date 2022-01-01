@@ -1,8 +1,1 @@
-{
-  "name": "define-array",
-  "version": "1.0.0",
-  "description": "Defines a new array",
-  "main": "index.js",
-  "author": "erwinkulasic",
-  "license": "MIT"
-}
+{"name":"define-array","version":"1.0.1","description":"Defines a new array","main":"index.js","author":"erwinkulasic","license":"MIT","homepage":"https://github.com/erwinkulasic/define-array"}
